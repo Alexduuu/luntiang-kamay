@@ -1,6 +1,6 @@
 class Config {
   // API Configuration
-  static const String apiUrl = 'https://luntiang-kamay.vercel.app';
+  static const String apiUrl = 'https://luntiang-kamay-api.onrender.com';
 
   // SMTP Configuration
   static const String smtpHost = 'smtp.gmail.com'; // SMTP host (e.g., Gmail)
